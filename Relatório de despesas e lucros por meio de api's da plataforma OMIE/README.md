@@ -1,10 +1,5 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto
+## Relatório de despesas e lucros por meio de api's da plataforma OMIE
 
-Segundo Desafio de Projeto com Modelagem de Dados na área de E-Commerce,
-Foi criado um schema com o um sistemas de cadastros de clients por PJ ou PF,
-Fazendo um levantamento de pedido com relaçao entre pedido e formas de pagamentos.
+Relatório criado com a funcionalidade de trazer a melhor visão dos dados receitas e despesas da companhia, para poder tomar as melhores decisões e ter ua acompanhamento de fluxo de caixa.
 
-Terceiro Desafio de Projeto com modelagem do zero e relação a uma Oficina Mecanica,
-Trazendo dados de clientes, mecânicos, veículos, Ordem de Serviço e muito mais relacionado a uma oficina,
-incrível trabalho, para poder pensar e ter conceitos na criação de um esquema relacional.
+Criação da base de dados por meio de funções com a linguagem M para manter o melhor desempenho de qualidades dos dados.
