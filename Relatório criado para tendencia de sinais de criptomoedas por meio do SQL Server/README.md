@@ -1,10 +1,4 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto
+## Relatório de Trade de criptomoedas
 
-Segundo Desafio de Projeto com Modelagem de Dados na área de E-Commerce,
-Foi criado um schema com o um sistemas de cadastros de clients por PJ ou PF,
-Fazendo um levantamento de pedido com relaçao entre pedido e formas de pagamentos.
-
-Terceiro Desafio de Projeto com modelagem do zero e relação a uma Oficina Mecanica,
-Trazendo dados de clientes, mecânicos, veículos, Ordem de Serviço e muito mais relacionado a uma oficina,
-incrível trabalho, para poder pensar e ter conceitos na criação de um esquema relacional.
+Relatório criado para trazer dados referente aos sinais relacionados a criptomoedas, trazendo os dados de ganhos e perdas, como também os tipos de trades.
+Foi extraido os dados do banco de dados do SQL Server, analisando eles no SQLServer para poder trazer a melhor query, visando a melhor performance dos dados na hora das atualizações e execuções quando os tomadores de decisões forem analisa-lo.
