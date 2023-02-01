@@ -1,10 +1,6 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto
+## Relatório de bancos de horas por meio do DevOps Azure
 
-Segundo Desafio de Projeto com Modelagem de Dados na área de E-Commerce,
-Foi criado um schema com o um sistemas de cadastros de clients por PJ ou PF,
-Fazendo um levantamento de pedido com relaçao entre pedido e formas de pagamentos.
+Relatório com intuito de trazer as horas trabalhadas pela equipe e projetos para assim ter uma visão do desempenho da equipe em relaçãos as atividades.
+Tendo essa visão dos dados de horas os tomadores de decisões pode observar a melhor maneira de manter a equipe firme e mantendo sempre um desempenho saudável para com o projeto.
 
-Terceiro Desafio de Projeto com modelagem do zero e relação a uma Oficina Mecanica,
-Trazendo dados de clientes, mecânicos, veículos, Ordem de Serviço e muito mais relacionado a uma oficina,
-incrível trabalho, para poder pensar e ter conceitos na criação de um esquema relacional.
+nesse projeto foi usado fluxos no power automate para gerar um documento JSON para gegistrar os valores do DevOps e assim poder trazer para o PBI e assim podendo fazer o melhor ETL para ter um grande desempenho dos dados.
