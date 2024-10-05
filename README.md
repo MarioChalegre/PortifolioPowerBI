@@ -1,2 +1,2 @@
 # PortifolioPowerBI
-Relatórios criados no Microsoft Power BI
+Relatórios de analises de negócio criados no Power BI da Microsoft
